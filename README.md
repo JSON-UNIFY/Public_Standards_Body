@@ -2,6 +2,7 @@
 
 ### The public standards body repository for the JSON-Unify specification is currently a group of data enthusiasts to move the industry forward in more efficiently and effectively using data. We are working towards JSON-Unify becoming an official part of the JSON-Schema specification.
 
+- Juan Gorricho, Head Business Intelligence and Data Transformation, TD Bank Group, https://www.linkedin.com/in/juangorricho/
 - Matt Goodrich, Director of Product Security, Alteryx: https://www.linkedin.com/in/matthewg00drich/
 - Juan Cruz Viotti, Engineering Manager, Postman: https://github.com/jviotti 
 - Cameron Prybol, PhD Candidate, Stanford: https://scholar.google.com/citations?user=_2a6CnEAAAAJ&hl=en
